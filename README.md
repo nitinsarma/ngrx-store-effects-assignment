@@ -6,6 +6,15 @@ Node: 12.16.3
 # Install Dependencies
  npm install
  
+ # Install ngrx/store
+ npm install --save @ngrx/store
+ 
+ # Install ngrx/effects
+ npm install --save @ngrx/effects
+ 
+ # Install Redux devtools
+ npm install --save @ngrx/store-devtools
+ 
 # Build
 ng build
 
